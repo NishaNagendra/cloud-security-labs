@@ -7,7 +7,7 @@
   - [x] Security Hub — remediation practice
   - [ ] GuardDuty
   - [ ] CloudTrail + Athena
-  - [ ] KMS + Secrets Manager
+  - [x] KMS + Secrets Manager
   - [ ] OWASP Top 10
   - [ ] Network security tools (tcpdump, Burp Suite)
   - [ ] Splunk Fundamentals
