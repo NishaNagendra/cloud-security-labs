@@ -9,6 +9,6 @@
   - [ ] CloudTrail + Athena
   - [x] KMS + Secrets Manager
   - [ ] OWASP Top 10
-  - [ ] Network security tools (tcpdump, Burp Suite)
+  - [x] Network security tools (tcpdump, Burp Suite)
   - [ ] Splunk Fundamentals
   - [ ] Fortinet NSE 1-3
