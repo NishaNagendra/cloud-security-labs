@@ -10,5 +10,5 @@
   - [x] KMS + Secrets Manager
   - [ ] OWASP Top 10
   - [x] Network security tools (tcpdump, Burp Suite)
-  - [ ] Splunk Fundamentals
+  - [X] Splunk Fundamentals
   - [ ] Fortinet NSE 1-3
