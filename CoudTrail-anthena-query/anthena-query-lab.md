@@ -87,6 +87,16 @@ WHERE eventName = 'ConsoleLogin'
 ORDER BY eventTime DESC;
 ```
 
+## Confirmed result
+
+Signed out and back in as the IAM user, waited for log delivery, then re-ran the login query — it returned the fresh sign-in event end-to-end (trail → S3 → Athena table → SQL query):
+
+| eventTime | username | sourceIPAddress |
+|---|---|---|
+| 2026-07-16T01:17:36Z | Nisha01 | \<redacted\> |
+
+This confirms the full pipeline works: a console login is captured by CloudTrail, delivered to S3 within minutes, and is immediately queryable through Athena.
+
 ## Notes & lessons learned
 - Athena charges **$5 per TB scanned**; a lab-sized CloudTrail dataset (KBs–MBs) costs fractions of a cent per query.
 - The Athena query result S3 location must be set once before running any query (Query settings → Query result location).
