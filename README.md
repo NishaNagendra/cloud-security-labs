@@ -5,8 +5,8 @@
 - [x] Month 1: AWS Cloud Practitioner Certification
 - [ ] Month 2-3: AWS Security Services deep dive
   - [x] Security Hub — remediation practice
-  - [ ] GuardDuty
-  - [ ] CloudTrail + Athena
+  - [X] GuardDuty
+  - [X] CloudTrail + Athena
   - [x] KMS + Secrets Manager
   - [ ] OWASP Top 10
   - [x] Network security tools (tcpdump, Burp Suite)
