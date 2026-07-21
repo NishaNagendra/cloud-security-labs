@@ -96,4 +96,4 @@ Function → Category → Subcategory
 | Output | Organizational Profile | Audit report (Type I/II) | Certificate + SoA |
 
 ---
-*Prepared as part of cloud security interview prep :- July 2026*
+*Prepared as part of cloud security interview prep - July 2026*
