@@ -8,7 +8,7 @@
   - [X] GuardDuty
   - [X] CloudTrail + Athena
   - [x] KMS + Secrets Manager
-  - [ ] OWASP Top 10
+  - [x] OWASP Top 10
   - [x] Network security tools (tcpdump, Burp Suite)
   - [X] Splunk Fundamentals
   - [x] Fortinet NSE 1-3
