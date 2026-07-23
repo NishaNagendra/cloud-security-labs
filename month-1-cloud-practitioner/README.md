@@ -1,6 +1,6 @@
 # Month 1 — AWS Cloud Practitioner Certification
 
-## What I did
+## What task I did
 Completed AWS Certified Cloud Practitioner (CCP) certification as a 
 foundation for the cloud security transition.
 
