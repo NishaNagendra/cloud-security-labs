@@ -1,6 +1,6 @@
 # GuardDuty — Enabled and Explored
 
-## What I did
+## What tasks I did
 Enabled Amazon GuardDuty (all features) in us-east-1 to explore its 
 threat detection capabilities. Reviewed the empty findings dashboard 
 on a fresh account (no findings, since no suspicious activity had 
